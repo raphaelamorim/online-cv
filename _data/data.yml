@@ -7,41 +7,38 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Raphael Amorim
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: raphael.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: raphael.amorim@gmail.com
+    phone: 650 213 6775
+    website: raphael.dev #do not add http://
+    linkedin: raphaelamorim
+    github: raphaelamorim
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@raphafacts'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Algorithms
         link:
 
-      - item: Snowboarding
+      - item: Computer Networks
         link:
 
-      - item: Cooking
+      - item: Cloud Computing
         link:
 
 career-profile:
@@ -54,92 +51,50 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Federal University of Ceara
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        www.ufc.br
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Cloud Software Engineer
+      time: Nov 2019 - Present
+      company: VMware, Palo Alto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Working with Cloud and Virtualization
+          - Kubernetes, Java, Spring, Golang
+    - role: Senior Cloud Software Engineer
+      time: Oct 2016 - Oct 2019
+      company: Aruba, a Hewlett Packard Enterprise Company, Santa Clara
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Intelligent Cloud Networking
+        https://www.arubanetworks.com/products/networking/management/central/      
+        Developing/designing our microservices-based cloud platform.      
+          - Kubernetes, CoreOS, Docker, Python, Java, Golang, RabbitMQ, Redis, Kafka, Elasticsearch, Postgres, Nginx (Ingress)
+    - role: Senior Software Development Engineer
+      time: Nov 2015 - Oct 2016
+      company: Hewlett Packard Enterprise, Palo Alto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        Lead Software Engineer working on architecture and development of HPE Synergy Software 
+        for Cloud Infrastructure Management. (https://www.hpe.com/us/en/integrated-systems/synergy.html)
+          - Tech Lead on the SDN team
+          - HPE VAN SDN Controller, Java, OSGi, Spring Framework, Python, Shell Script, Golang, elasticsearch
+    - role: Open Source Developer
+      time: Apr 2015 - Jul 2016
+      company: OpenDaylight Project, Linux Foundation
+      details: |
+        PTL/Commiter - OpenDaylight Project (Network Intent Composition)
+        http://www.opendaylight.org/
+        https://wiki.opendaylight.org/view/Network_Intent_Composition:Main
+        Contributions: https://git.opendaylight.org/gerrit/#/q/owner:raphael.amorim%2540gmail.com+status:merged
+          - Java 8, OSGi, Karaf
+    - role: Senior Software Development Enginner
+      time: Jul 2013 - Oct 2015
+      company: Hewlett Packard
+      details: |
+        Working with SDN and Cloud - HP Networking Group
+          - HP VAN Openflow Controller and SDN Application development
+          - Cloud Network Management Platform for UWW    
+          - Java 7, Spring Framework, OSGi, Postgres, Elasticsearch, Openflow 1.0/1.3, Yang Modeling, Shell Scripting
 
 publications:
     title: Publications
