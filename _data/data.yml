@@ -44,12 +44,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Good knowledge of Windows Internals
+      More than 15 years of software design and development experience in Visual C/C++ and Java.
+      More than 15 years of experience in Security/Cryptography software design and programming.
+      Fluent in C\C++ language.
+      Fluent in Java language.
+      Fluent in Lua Scripting language.
+      7 years experience with OpenFlow. Building 2 controllers (Lua and Java) from the ground up.
+      Good knowledge of .NET framework and C# language, also using ASP.NET.
+      Good knowledge of Objective-C and Cocoa.
+      Good knowledge of Qt application development in C++.
+    
+      Certified ScrumMaster (CSM) - #108416
+
 education:
     - degree: BSc in Computer Science
       university: Federal University of Ceara
