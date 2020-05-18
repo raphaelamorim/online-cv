@@ -108,17 +108,15 @@ publications:
     papers:
       - title: Enhancing Network Management Frameworks with SDN-like Control
         link: "https://ieeexplore.ieee.org/document/6573054/"
-        authors: Puneet Sharma, Sujata Banerjee, Sébastien Tandel, Renato Aguiar, Raphael Amorim, David Pinheiro
-        conference: IFIP/IEEE International Symposium on Integrated Network Management (IM 2013)
-
+        authors: "Puneet Sharma, Sujata Banerjee, Sébastien Tandel, Renato Aguiar, Raphael Amorim, David Pinheiro"
+        conference: "IFIP/IEEE International Symposium on Integrated Network Management (IM 2013)"
       - title: "Distributed data structure in a software defined networking environment"
         link: "https://patentimages.storage.googleapis.com/d4/c7/9d/ad7e02a99c08ca/US20180205790A1.pdf"
-        authors: Anu Mercian, Raphael Amorim, Mario Antonio Sanchez, Joon-Myung Kang, Sujata Banerjee
+        authors: "Anu Mercian, Raphael Amorim, Mario Antonio Sanchez, Joon-Myung Kang, Sujata Banerjee"
         conference: "United States Patent Application US20180205790A1"
-
       - title: Verifying whether connectivity in a composed policy graph reflects a corresponding policy in input policy graphs
         link: "https://patentimages.storage.googleapis.com/81/f1/2d/67b633176b62b6/US20190068598A1.pdf"
-        authors:  Anu Mercian, Raphael Amorim, Mario Antonio Sanchez, Joon-Myung Kang, Ying Zhang, Sujata Banerjee
+        authors:  "Anu Mercian, Raphael Amorim, Mario Antonio Sanchez, Joon-Myung Kang, Ying Zhang, Sujata Banerjee"
         conference: "United States Patent Application US20190068598A1"
 
 skills:
