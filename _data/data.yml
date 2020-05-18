@@ -104,46 +104,44 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Selected Articles and Patents
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Enhancing Network Management Frameworks with SDN-like Control
+        link: "https://ieeexplore.ieee.org/document/6573054/"
+        authors: Puneet Sharma, Sujata Banerjee, Sébastien Tandel, Renato Aguiar, Raphael Amorim, David Pinheiro
+        conference: IFIP/IEEE International Symposium on Integrated Network Management (IM 2013)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Distributed data structure in a software defined networking environment"
+        link: "https://patentimages.storage.googleapis.com/d4/c7/9d/ad7e02a99c08ca/US20180205790A1.pdf"
+        authors: Anu Mercian, Raphael Amorim, Mario Antonio Sanchez, Joon-Myung Kang, Sujata Banerjee
+        conference: "United States Patent Application US20180205790A1"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Verifying whether connectivity in a composed policy graph reflects a corresponding policy in input policy graphs
+        link: "https://patentimages.storage.googleapis.com/81/f1/2d/67b633176b62b6/US20190068598A1.pdf"
+        authors:  Anu Mercian, Raphael Amorim, Mario Antonio Sanchez, Joon-Myung Kang, Ying Zhang, Sujata Banerjee
+        conference: "United States Patent Application US20190068598A1"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C\C++
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java Script
+        level: 70%
+
+      - name: Lua
+        level: 90%
+
+      - name: Kubernetes and Docker
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
