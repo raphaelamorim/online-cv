@@ -52,7 +52,9 @@ career-profile:
       - Fluent in Lua Scripting language.
       - 7 years experience with OpenFlow. Building 2 controllers (Lua and Java) from the ground up.
       - Good knowledge of .NET framework and C# language, also using ASP.NET.
-      - Good knowledge of Objective-C and Cocoa.
+      - Good knowledge of Objective-C and iOS/macOS development.
+      - Good knowledge of Modern javascript React
+      - Good knowledge of React both web and React Native for Hybrid Mobile Development.
       - Good knowledge of Qt application development in C++.
       - Certified ScrumMaster (CSM) - #108416
 education:
@@ -124,7 +126,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 70%
+        level: 80%
 
       - name: Java
         level: 95%
@@ -139,6 +141,9 @@ skills:
         level: 90%
 
       - name: Kubernetes and Docker
+        level: 90%
+      
+      - name: React/React Native
         level: 80%
 
 footer: >
